@@ -67,11 +67,34 @@ h2 {
     transform: translateY(0); /* Reset position on click */
 }
 
-/* Optional: Add a media query for smaller screens */
+/* Media Queries for Responsive Design */
+@media (max-width: 900px) {
+    .category-btn {
+        font-size: 15px; /* Slightly smaller font size */
+        padding: 10px 20px; /* Adjust padding for smaller screens */
+    }
+}
+
 @media (max-width: 600px) {
     .category-btn {
-        font-size: 14px; /* Smaller font size on smaller screens */
-        padding: 10px 18px; /* Adjust padding for smaller screens */
+        font-size: 14px; /* Smaller font size */
+        padding: 8px 16px; /* Adjust padding for smaller screens */
+    }
+    
+    .categories {
+        padding: 10px; /* Reduced padding for smaller screens */
+        gap: 10px; /* Adjusted gap */
+    }
+}
+
+@media (max-width: 400px) {
+    .category-btn {
+        font-size: 13px; /* Further reduce font size */
+        padding: 6px 12px; /* Further adjust padding */
+    }
+    
+    .categories {
+        gap: 8px; /* Further adjust gap */
     }
 }
 
