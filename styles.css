@@ -34,27 +34,47 @@ h2 {
 /* Categories */
 .categories {
     display: flex;
-    overflow-x: scroll;
+    overflow-x: auto; /* Allows for scrolling on smaller screens */
     justify-content: center;
-    gap: 10px;
-    padding: 10px;
+    gap: 15px; /* Increased gap for better spacing */
+    padding: 15px; /* Added more padding */
     background-color: #1E1E1E; /* Darker category background */
+    border-radius: 10px; /* Rounded corners for the category section */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5); /* Subtle shadow for depth */
 }
 
 .category-btn {
     background-color: #FF9800;
     color: white;
-    padding: 10px 20px;
+    padding: 12px 24px; /* Slightly larger padding */
     text-decoration: none;
     border: none;
-    border-radius: 20px;
+    border-radius: 30px; /* More rounded corners */
     cursor: pointer;
     font-size: 16px;
+    transition: background-color 0.3s, transform 0.2s; /* Smooth transitions */
+    display: flex; /* Center text within button */
+    align-items: center;
+    justify-content: center;
 }
 
 .category-btn:hover {
     background-color: #F57C00;
+    transform: translateY(-2px); /* Lift effect on hover */
 }
+
+.category-btn:active {
+    transform: translateY(0); /* Reset position on click */
+}
+
+/* Optional: Add a media query for smaller screens */
+@media (max-width: 600px) {
+    .category-btn {
+        font-size: 14px; /* Smaller font size on smaller screens */
+        padding: 10px 18px; /* Adjust padding for smaller screens */
+    }
+}
+
 
 /* Menu Section */
 .menu {
