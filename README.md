@@ -16,8 +16,6 @@ Here's the menu divided into **Snacks**, **Main Course**, and **Beverages**:
 
 ## **Main Course**  
 
-- 
-
 ### **Dosa Section**  
 - **Plain Dosa** – Rs. 40  
 - **Masala Dosa** – Rs. 45  
@@ -50,5 +48,3 @@ Here's the menu divided into **Snacks**, **Main Course**, and **Beverages**:
 - **Lassi** – Rs. 35  
 
 ---
-
-Let me know if you'd like to adjust any section or add more details!
