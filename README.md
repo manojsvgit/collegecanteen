@@ -3,19 +3,19 @@ Here's the menu divided into **Snacks**, **Main Course**, and **Beverages**:
 ---
 
 ## **Snacks**  
+- **Bajji** – Rs. 20 
 - **Vada** – Rs. 20  
-- **Bajji** – Rs. 20  
+- **Manglore Buns** – Rs. 40  
 - **Samosa** – Rs. 20  
-- **Pongal** – Rs. 35  
-- **Buns** – Rs. 40  
-- **Idiyappam (Idiy)** – Rs. 20  
-- **Puri (2 pcs)** – Rs. 40  
-
+- **Popcorn** – Rs. 25  
+- **Bread Pakoda** – Rs. 20  
+  
 ---
 
 ## **Main Course**  
-### **Chinese Section**  
-- **Gobi (Manchurian)**  
+### **Chinese Section** 
+
+- Gobi (Manchurian) 
 - Fried Rice  
 - Noodles  
 
@@ -25,7 +25,8 @@ Here's the menu divided into **Snacks**, **Main Course**, and **Beverages**:
 - **Ghee Plain Dosa** – Rs. 50  
 - **Ghee Masala Dosa** – Rs. 55  
 - **Podi Dosa** – Rs. 55  
-- **Ghee Podi Masala Dosa** – Rs. 60  
+- **Ghee Podi Masala Dosa** – Rs. 60
+- **Puri (2 pcs)** – Rs. 40 
 
 ### **Paratha Section**  
 - **Alu Paratha** – Rs. 45  
@@ -34,14 +35,19 @@ Here's the menu divided into **Snacks**, **Main Course**, and **Beverages**:
 
 ### **Rice Dishes**  
 - **Khara Bath** – Rs. 30  
-- **Kesari** – Rs. 30  
-- **Rice Bath** – Rs. 39  
-- **Bisi Bele Bath** – Rs. 35  
+- **Kesari Bath** – Rs. 30  
+- **Rice Bath** – Rs. 35  
+- **Bisi Bele Bath** – Rs. 35 
+- **Pongal** – Rs. 35   
 
 ---
 
 ## **Beverages**  
-*No specific beverages listed in the images.*  
+- **Coffee** – Rs. 35  
+- **Tea** – Rs. 35  
+- **Badam Milk** – Rs. 35  
+- **Rose Milk** – Rs. 35  
+- **Lassi** – Rs. 35  
 
 ---
 
