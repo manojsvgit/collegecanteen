@@ -4,6 +4,8 @@ Here's the menu divided into **Snacks**, **Main Course**, and **Beverages**:
 
 ## **Snacks**  
 - **Bajji** – Rs. 20 
+- **Gobi Manchurian** - Rs.
+- **Noodles** -Rs.   
 - **Vada** – Rs. 20  
 - **Manglore Buns** – Rs. 40  
 - **Samosa** – Rs. 20  
@@ -13,11 +15,8 @@ Here's the menu divided into **Snacks**, **Main Course**, and **Beverages**:
 ---
 
 ## **Main Course**  
-### **Chinese Section** 
 
-- Gobi (Manchurian) 
-- Fried Rice  
-- Noodles  
+- 
 
 ### **Dosa Section**  
 - **Plain Dosa** – Rs. 40  
@@ -38,7 +37,8 @@ Here's the menu divided into **Snacks**, **Main Course**, and **Beverages**:
 - **Kesari Bath** – Rs. 30  
 - **Rice Bath** – Rs. 35  
 - **Bisi Bele Bath** – Rs. 35 
-- **Pongal** – Rs. 35   
+- **Pongal** – Rs. 35  
+- **Fried Rice** - Rs.    
 
 ---
 
