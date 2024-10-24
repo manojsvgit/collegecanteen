@@ -2,15 +2,23 @@
 document.querySelectorAll(".category-btn").forEach((button) => {
   button.addEventListener("click", function (event) {
     event.preventDefault();
-    const targetID = this.getAttribute("href").substring(1);
-    const targetSection = document.getElementById(targetID);
+    const targetID = this.getAttribute("href").substring(1); // Get the target section ID
+    const targetSection = document.getElementById(targetID); // Find the target section
 
-    // Scroll to the section smoothly
-    targetSection.scrollIntoView({
-      behavior: "smooth",
-    });
+    // Check if the target section exists
+    if (targetSection) {
+      // Scroll to the section smoothly
+      targetSection.scrollIntoView({
+        behavior: "smooth",
+        block: "start", // Align to the top of the viewport
+        inline: "nearest" // Adjust the horizontal alignment
+      });
+    } else {
+      console.warn(`Target section with ID "${targetID}" not found.`);
+    }
   });
 });
+
 
 // Intersection Observer to detect active section
 const sections = document.querySelectorAll("section");
