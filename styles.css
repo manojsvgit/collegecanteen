@@ -139,15 +139,43 @@ h2 {
 .footer {
     background-color: #1E1E1E; /* Match footer with header */
     color: white;
-    padding: 20px;
+    padding: 20px 15px; /* Adjust padding for better spacing */
     text-align: center;
     font-size: 14px;
     box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.5); /* Shadow for depth */
+    position: relative; /* Ensure correct positioning */
+    z-index: 10; /* Prevent any overlapping issues */
 }
 
 .footer p {
     margin-bottom: 5px;
+    line-height: 1.6; /* Better readability */
 }
+
+.footer a {
+    color: #FF9800; /* Bright, matching link color */
+    text-decoration: none;
+    transition: color 0.3s ease; /* Smooth hover transition */
+}
+
+.footer a:hover {
+    color: #4CAF50; /* Darker orange on hover */
+}
+
+.footer p:last-child {
+    margin-top: 10px;
+    font-size: 13px;
+    color: #FF9800; /* Highlight the "Made with ♥" text */
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    .footer {
+        font-size: 12px; /* Smaller font for mobile */
+        padding: 15px; /* Adjust padding for mobile */
+    }
+}
+
 
 /* Media Queries for Responsive Design */
 @media (min-width: 600px) {
