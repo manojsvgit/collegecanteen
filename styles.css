@@ -153,13 +153,13 @@ h2 {
 }
 
 .footer a {
-    color: #FF9800; /* Bright, matching link color */
+    color: #4CAF50; /* Bright, matching link color */
     text-decoration: none;
     transition: color 0.3s ease; /* Smooth hover transition */
 }
 
 .footer a:hover {
-    color: #4CAF50; /* Darker orange on hover */
+    color: greenyellow; /* Darker orange on hover */
 }
 
 .footer p:last-child {
