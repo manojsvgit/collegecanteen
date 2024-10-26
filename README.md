@@ -4,8 +4,8 @@ Here's the menu divided into **Snacks**, **Main Course**, and **Beverages**:
 
 ## **Snacks**  
 - **Bajji** – Rs. 20 
-- **Gobi Manchurian** - Rs.
-- **Noodles** -Rs.   
+- **Gobi Manchurian** - Rs.60
+- **Noodles** -Rs. 60
 - **Vada** – Rs. 20  
 - **Manglore Buns** – Rs. 40  
 - **Samosa** – Rs. 20  
@@ -36,15 +36,15 @@ Here's the menu divided into **Snacks**, **Main Course**, and **Beverages**:
 - **Rice Bath** – Rs. 35  
 - **Bisi Bele Bath** – Rs. 35 
 - **Pongal** – Rs. 35  
-- **Fried Rice** - Rs.    
+- **Fried Rice** - Rs. 70 
 
 ---
 
 ## **Beverages**  
-- **Coffee** – Rs. 35  
-- **Tea** – Rs. 35  
-- **Badam Milk** – Rs. 35  
-- **Rose Milk** – Rs. 35  
-- **Lassi** – Rs. 35  
+- **Coffee** – Rs. 15  
+- **Tea** – Rs. 12  
+- **Badam Milk** – Rs. 45  
+- **Rose Milk** – Rs. 45  
+- **Lassi** – Rs. 50  
 
 ---
